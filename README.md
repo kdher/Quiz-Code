@@ -15,18 +15,17 @@ This Homework is intended run as a quiz application, to test candidtates on thei
 - When user clicks submit it goes to a new page with all high scores shown as a list and gives you an option to either go back or clear high scores.
 
 
-
 ## Author Info
 
 Name: Eder Rodrigo Ramirez
 
 Email: edher.fca@gmail.com
 
-Portfolio: [](https://github.com/kdher)
-
+Portfolio: ![https://github.com/kdher](https://github.com/kdher)
 
 ## Acceptance Criteria
 
+```
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -38,8 +37,9 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
-
 ```
+
+
 ## Technologies
  -HTML
  -CSS
