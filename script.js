@@ -1,6 +1,6 @@
 //VARIABLES
 // var body = document.body;
-var header = document.querySelector(".header");
+var header = document.querySelector("Header");
 var score = document.getElementById("score");
 var submitButton = document.getElementById("submitButton");
 
